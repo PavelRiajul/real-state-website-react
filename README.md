@@ -97,5 +97,5 @@ const Navbar = () => {
 
 export default Navbar -->
 ---------------------------------------------------
-7-> About section create
+7-> contact section create
 
