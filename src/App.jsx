@@ -1,6 +1,7 @@
 
 import About from './components/About'
 import Contact from './components/Contact'
+import FacebookMsg from './components/FacebookMsg';
 import Header from './components/Header'
 import { ToastContainer } from 'react-toastify';
 
@@ -11,6 +12,7 @@ const App = () => {
       <Header/>
       <About/>
       <Contact/>
+      <FacebookMsg/>
     </div>
   )
 }
